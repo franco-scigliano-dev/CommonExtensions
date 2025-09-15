@@ -1,0 +1,16 @@
+{
+    "name": "com.fscigliano.commonextensions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6e8091645e2150941a8e6d2637c6c47a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

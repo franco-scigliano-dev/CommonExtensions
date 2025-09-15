@@ -1,0 +1,19 @@
+{
+  "name": "com.fscigliano.commonextensions",
+  "version": "1.0.0",
+  "displayName": "Common Extensions",
+  "description": "Several small extensions and helpers.",
+  "unity": "2021.3",
+  "keywords": [
+    "tool"
+  ],
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.dev@gmail.com",
+    "url": "https://github.com/franco-scigliano-dev/CommonExtensions"
+  },
+  "dependencies": {
+    "com.fscigliano.propertydrawerscollection": "https://github.com/franco-scigliano-dev/PropertyDrawersCollection.git#v1.0.0"
+  },
+  "_fingerprint": "3672f44cde3c096af8b133e1a15f582f68a8e764"
+}
